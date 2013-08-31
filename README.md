@@ -1,4 +1,4 @@
 staypressenquiry
 ================
 
-The lite version of the staypress enquiry plugin
+The Staypress enquiry plugin
